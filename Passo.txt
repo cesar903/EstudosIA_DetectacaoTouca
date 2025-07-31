@@ -87,7 +87,13 @@ Resumo:
 - Desenha caixas e texto colorido conforme a detecção.
 - Exibe tudo em uma janela até o usuário encerrar com 'q'.
 
----
-
-Se quiser, posso ajudar a adicionar alertas sonoros, salvar fotos das detecções, ou preparar a documentação para seu TCC.
+| Biblioteca      | Utilidade principal                                |
+| --------------- | -------------------------------------------------- |
+| `torch`         | Treinamento de modelos de deep learning            |
+| `torchvision`   | Visão computacional (datasets e modelos)           |
+| `torchaudio`    | Processamento de áudio                             |
+| `opencv-python` | Manipulação de imagens e vídeos                    |
+| `matplotlib`    | Visualização de dados com gráficos                 |
+| `pandas`        | Manipulação de dados tabulares                     |
+| `ultralytics`   | Detecção de objetos com YOLO (visão computacional) |
 
